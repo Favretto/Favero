@@ -1,0 +1,249 @@
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Opc.Ua.Client.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Opc.Ua.Client.pdb
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Hosting.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.Extensions.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.Features.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.WebUtilities.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Configuration.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.FileProviders.Physical.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Logging.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.ObjectPool.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Options.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.PlatformAbstractions.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Primitives.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Net.Http.Headers.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Win32.Primitives.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Newtonsoft.Json.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\BouncyCastle.Crypto.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.AppContext.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Buffers.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Collections.Immutable.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Console.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Diagnostics.DiagnosticSource.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Globalization.Calendars.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.IO.Compression.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.IO.Compression.ZipFile.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.IO.FileSystem.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.IO.FileSystem.Primitives.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Net.Http.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Net.Sockets.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Numerics.Vectors.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Reflection.Metadata.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Runtime.CompilerServices.Unsafe.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.Algorithms.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.Encoding.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.Primitives.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.X509Certificates.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Text.Encodings.Web.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Threading.Tasks.Extensions.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Xml.ReaderWriter.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Opc.Ua.Core.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\bin\Debug\net46\Opc.Ua.Core.pdb
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.AssemblyInfoInputs.cache
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.AssemblyInfo.cs
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.csproj.CoreCompileInputs.cache
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.csproj.CopyComplete
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.pdb
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.csproj.AssemblyReference.cache
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Opc.Ua.Client.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Opc.Ua.Client.pdb
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Hosting.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.Extensions.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.Features.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.WebUtilities.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Configuration.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.FileProviders.Physical.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Logging.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.ObjectPool.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Options.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.PlatformAbstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Primitives.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Net.Http.Headers.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Microsoft.Win32.Primitives.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Newtonsoft.Json.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\BouncyCastle.Crypto.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.AppContext.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Buffers.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Collections.Immutable.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Console.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Diagnostics.DiagnosticSource.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Globalization.Calendars.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.IO.Compression.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.IO.Compression.ZipFile.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.IO.FileSystem.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.IO.FileSystem.Primitives.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Net.Http.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Net.Sockets.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Numerics.Vectors.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Reflection.Metadata.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Runtime.CompilerServices.Unsafe.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.Algorithms.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.Encoding.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.Primitives.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.X509Certificates.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Text.Encodings.Web.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Threading.Tasks.Extensions.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\System.Xml.ReaderWriter.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Opc.Ua.Core.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\bin\Debug\net46\Opc.Ua.Core.pdb
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.csproj.AssemblyReference.cache
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.AssemblyInfoInputs.cache
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.AssemblyInfo.cs
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.csproj.CoreCompileInputs.cache
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.csproj.CopyComplete
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.pdb
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Opc.Ua.Client.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Opc.Ua.Client.pdb
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Hosting.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.Extensions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.Features.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.WebUtilities.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Configuration.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.FileProviders.Physical.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Logging.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.ObjectPool.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Options.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.PlatformAbstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Primitives.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Net.Http.Headers.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Win32.Primitives.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Newtonsoft.Json.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\BouncyCastle.Crypto.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.AppContext.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Buffers.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Collections.Immutable.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Console.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Diagnostics.DiagnosticSource.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Globalization.Calendars.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.IO.Compression.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.IO.Compression.ZipFile.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.IO.FileSystem.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.IO.FileSystem.Primitives.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Net.Http.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Net.Sockets.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Numerics.Vectors.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Reflection.Metadata.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Runtime.CompilerServices.Unsafe.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.Algorithms.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.Encoding.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.Primitives.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.X509Certificates.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Text.Encodings.Web.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Threading.Tasks.Extensions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Xml.ReaderWriter.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Opc.Ua.Core.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Opc.Ua.Core.pdb
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.csproj.AssemblyReference.cache
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.AssemblyInfoInputs.cache
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.AssemblyInfo.cs
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.csproj.CoreCompileInputs.cache
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.csproj.CopyComplete
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.pdb
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Opc.Ua.Client.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Opc.Ua.Client.pdb
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Hosting.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.Extensions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Http.Features.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.AspNetCore.WebUtilities.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Configuration.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.FileProviders.Physical.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Logging.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Logging.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.ObjectPool.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Options.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.PlatformAbstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Extensions.Primitives.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Net.Http.Headers.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Microsoft.Win32.Primitives.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Newtonsoft.Json.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\BouncyCastle.Crypto.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.AppContext.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Buffers.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Collections.Immutable.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Console.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Diagnostics.DiagnosticSource.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Globalization.Calendars.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.IO.Compression.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.IO.Compression.ZipFile.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.IO.FileSystem.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.IO.FileSystem.Primitives.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Net.Http.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Net.Sockets.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Numerics.Vectors.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Reflection.Metadata.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Runtime.CompilerServices.Unsafe.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.Algorithms.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.Encoding.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.Primitives.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Security.Cryptography.X509Certificates.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Text.Encodings.Web.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Threading.Tasks.Extensions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\System.Xml.ReaderWriter.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Opc.Ua.Core.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\bin\Debug\net46\Opc.Ua.Core.pdb
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.csproj.AssemblyReference.cache
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.AssemblyInfoInputs.cache
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.AssemblyInfo.cs
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.csproj.CoreCompileInputs.cache
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.csproj.CopyComplete
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaClient\obj\Debug\net46\Opc.Ua.Client.pdb

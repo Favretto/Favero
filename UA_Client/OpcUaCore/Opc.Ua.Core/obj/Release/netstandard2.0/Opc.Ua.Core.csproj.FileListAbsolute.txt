@@ -1,0 +1,9 @@
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\bin\Release\netstandard2.0\Opc.Ua.Core.deps.json
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\bin\Release\netstandard2.0\Opc.Ua.Core.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\bin\Release\netstandard2.0\Opc.Ua.Core.pdb
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.csproj.AssemblyReference.cache
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.AssemblyInfoInputs.cache
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.AssemblyInfo.cs
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Release\netstandard2.0\Opc.Ua.Core.pdb

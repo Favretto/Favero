@@ -1,0 +1,37 @@
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.deps.json
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.pdb
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.AssemblyInfoInputs.cache
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.AssemblyInfo.cs
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.dll
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.pdb
+C:\DEV\OPC\OPC_UA_Client_1500\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.csproj.AssemblyReference.cache
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.deps.json
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.pdb
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.csproj.AssemblyReference.cache
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.AssemblyInfoInputs.cache
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.AssemblyInfo.cs
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.dll
+C:\DEV\_FAVERO\Impex\UA_Client_1500\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.pdb
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.deps.json
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.pdb
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.AssemblyInfoInputs.cache
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.AssemblyInfo.cs
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.dll
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.pdb
+C:\DEV\_FAVERO\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.csproj.AssemblyReference.cache
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.deps.json
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\bin\Debug\netstandard2.0\Opc.Ua.Core.pdb
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.csproj.AssemblyReference.cache
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.AssemblyInfoInputs.cache
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.AssemblyInfo.cs
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\OpcUaCore\Opc.Ua.Core\obj\Debug\netstandard2.0\Opc.Ua.Core.pdb

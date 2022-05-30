@@ -1,0 +1,166 @@
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\UA Client.exe.config
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\UA Client.exe.manifest
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\UA Client.application
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\UA Client.exe
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\UA Client.pdb
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Opc.Ua.Client.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Opc.Ua.Core.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\BouncyCastle.Crypto.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Options.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\System.Numerics.Vectors.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\System.Buffers.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\System.Reflection.Metadata.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\System.Collections.Immutable.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Opc.Ua.Client.pdb
+C:\DEV\_FAVERO\Impex\UA_Client\bin\Debug\Opc.Ua.Core.pdb
+C:\DEV\_FAVERO\Impex\UA_Client\obj\Debug\UA_Client.csproj.AssemblyReference.cache
+C:\DEV\_FAVERO\Impex\UA_Client\obj\Debug\UA Client.exe.config
+C:\DEV\_FAVERO\Impex\UA_Client\obj\Debug\UA_Client.UAClientCertForm.resources
+C:\DEV\_FAVERO\Impex\UA_Client\obj\Debug\UA_Client.UAClientForm.resources
+C:\DEV\_FAVERO\Impex\UA_Client\obj\Debug\UA_Client.Properties.Resources.resources
+C:\DEV\_FAVERO\Impex\UA_Client\obj\Debug\UA_Client.csproj.GenerateResource.cache
+C:\DEV\_FAVERO\Impex\UA_Client\obj\Debug\UA_Client.csproj.CoreCompileInputs.cache
+C:\DEV\_FAVERO\Impex\UA_Client\obj\Debug\UA Client.exe.manifest
+C:\DEV\_FAVERO\Impex\UA_Client\obj\Debug\UA Client.application
+C:\DEV\_FAVERO\Impex\UA_Client\obj\Debug\UA_Client.csproj.CopyComplete
+C:\DEV\_FAVERO\Impex\UA_Client\obj\Debug\UA Client.exe
+C:\DEV\_FAVERO\Impex\UA_Client\obj\Debug\UA Client.pdb
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\UA Client.exe.config
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\UA Client.exe.manifest
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\UA Client.application
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\UA Client.exe
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\UA Client.pdb
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Opc.Ua.Client.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Opc.Ua.Core.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\BouncyCastle.Crypto.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Newtonsoft.Json.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\System.Text.Encodings.Web.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Options.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\System.Numerics.Vectors.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\System.Buffers.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\System.Reflection.Metadata.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\System.Collections.Immutable.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Opc.Ua.Client.pdb
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\bin\Debug\Opc.Ua.Core.pdb
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\obj\Debug\UA_Client.csproj.AssemblyReference.cache
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\obj\Debug\UA Client.exe.config
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\obj\Debug\UA_Client.UAClientCertForm.resources
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\obj\Debug\UA_Client.UAClientForm.resources
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\obj\Debug\UA_Client.Properties.Resources.resources
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\obj\Debug\UA_Client.csproj.GenerateResource.cache
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\obj\Debug\UA_Client.csproj.CoreCompileInputs.cache
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\obj\Debug\UA Client.exe.manifest
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\obj\Debug\UA Client.application
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\obj\Debug\UA_Client.csproj.CopyComplete
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\obj\Debug\UA Client.exe
+D:\_PROGETTI AGGIORNATI\Favero\Impex\UA_Client\obj\Debug\UA Client.pdb
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\UA Client.exe.config
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\UA Client.exe.manifest
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\UA Client.application
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\UA Client.exe
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\UA Client.pdb
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Opc.Ua.Client.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Opc.Ua.Core.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\BouncyCastle.Crypto.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Newtonsoft.Json.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\System.Text.Encodings.Web.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Options.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\System.Numerics.Vectors.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\System.Buffers.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\System.Reflection.Metadata.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\System.Collections.Immutable.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Opc.Ua.Client.pdb
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\bin\Debug\Opc.Ua.Core.pdb
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\obj\Debug\UA_Client.csproj.AssemblyReference.cache
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\obj\Debug\UA Client.exe.config
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\obj\Debug\UA_Client.frmSpecialData.resources
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\obj\Debug\UA_Client.UAClientCertForm.resources
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\obj\Debug\UA_Client.UAClientForm.resources
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\obj\Debug\UA_Client.Properties.Resources.resources
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\obj\Debug\UA_Client.csproj.GenerateResource.cache
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\obj\Debug\UA_Client.csproj.CoreCompileInputs.cache
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\obj\Debug\UA Client.exe.manifest
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\obj\Debug\UA Client.application
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\obj\Debug\UA_Client.csproj.CopyComplete
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\obj\Debug\UA Client.exe
+D:\_PROGETTI AGGIORNATI\Favero\B171\Impex\UA_Client\obj\Debug\UA Client.pdb
