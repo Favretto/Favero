@@ -19,6 +19,4 @@ namespace UA_Client
             Application.Run(new UAClientForm());
         }
     }
-
-    // MODIFICA DI TESTUU ...
 }
